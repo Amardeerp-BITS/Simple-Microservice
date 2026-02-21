@@ -3,8 +3,8 @@ const router = express.Router();
 
 // In-memory store
 let students = [
-  { id: 1, name: "Amardeep Singh", rollNo: "2023LM70008", branch: "CS", year: 3 },
-  { id: 2, name: "Priya Sharma", rollNo: "2023LM70009", branch: "ECE", year: 2 },
+  { id: 1, name: "Amardeep Bharti", rollNo: "2023LM70008", branch: "CS", year: 3 },
+  { id: 2, name: "Sukant Sinha", rollNo: "2023LM70009", branch: "ECE", year: 2 },
 ];
 let nextId = 3;
 
