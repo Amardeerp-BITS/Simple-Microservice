@@ -1,0 +1,17 @@
+{
+  "name": "amardeep-project",
+  "version": "1.0.0",
+  "description": "Student Info CRUD Microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
